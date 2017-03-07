@@ -1,0 +1,1 @@
+The avatar profile picture shall be 384px by 384px. 
